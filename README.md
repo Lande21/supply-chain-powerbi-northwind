@@ -41,7 +41,7 @@ Examples:
 - Highlighted opportunities for supply chain optimization
 📸 Dashboard Preview
 
-<img width="503" height="347" alt="image" src="https://github.com/ />
+<img width="503" height="347" alt="image" src="https://github.com/Lande21/supply-chain-powerbi-northwind/blob/main/Screenshot%202025-12-01%20184142.png"/>
 
 💡 What I Learned
 - Designing scalable dashboards using Power BI
