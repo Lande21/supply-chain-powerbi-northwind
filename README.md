@@ -29,7 +29,7 @@ Built an interactive dashboard using the Northwind database to analyze sales and
 
 📐 Key Measures
 
-See full list → docs/measures.md
+See full list → measures.md
 
 Examples:
 - Total Revenue
@@ -41,7 +41,7 @@ Examples:
 - Highlighted opportunities for supply chain optimization
 📸 Dashboard Preview
 
-Insert
+<img width="503" height="347" alt="image" src="https://github.com/ />
 
 💡 What I Learned
 - Designing scalable dashboards using Power BI
