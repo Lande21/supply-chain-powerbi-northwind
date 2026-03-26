@@ -1,8 +1,8 @@
 # supply-chain-powerbi-northwind
 
 Built an interactive dashboard using the Northwind database to analyze sales and supply chain performance.
-<img width="503" height="347" alt="image" src="https://github.com/Lande21/supply-chain-powerbi-northwind/blob/main/Screenshot%202025-12-01%20184142.png"/>
-🚀 Project Overview
+<img width="503" height="347" alt="image" src="https://github.com/Lande21/supply-chain-powerbi-northwind/blob/main/Screenshot%202025-12-02%20105525.png"/>
+# 🚀 Project Overview
 - Analyzed 1,000+ records across 8+ relational tables
 - Developed 10+ DAX measures for KPI tracking
 - Focused on revenue trends, order behavior, and customer insights
